@@ -1,0 +1,8 @@
+{
+  "name": "Tu Faro en Salud - Centro de Fisioterapia",
+  "description": "Landing page de alta conversión para centro de fisioterapia especializada en pediatría y traumatología. Compromiso, resultados y acompañamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
